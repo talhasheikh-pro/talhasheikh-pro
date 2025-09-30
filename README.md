@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Talha Sheikh</h1>
+<h1 align="center">Hi there 👋, I'm Talha Abrar</h1>
 <h3 align="center">Software Engineer @Alasco-GmbH | Frontend Enthusiast | Tech Explorer</h3>
 
 ---
